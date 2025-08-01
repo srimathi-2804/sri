@@ -23,7 +23,7 @@ Thumbs.db
 .env.local
 .env.*.local
 
-# Logs
+# Logs 
 *.log
 
 # Build output
